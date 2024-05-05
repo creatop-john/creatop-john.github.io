@@ -380,12 +380,12 @@
                 "en": "Coherence Biotech"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 資金",
+                "en": "Business Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "實現 AI 藥物研發的自動化系統",
+                "en": "Sample-to-insight Device for AI Drug Research"
             },
             "country": {
                 "tw": "台灣",
@@ -394,7 +394,7 @@
             "category": "3",
             "categoryName": "Energy & Healthcare",
             "img": "18.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://www.coherencebio.com/"
         },
         {
             "name": {
@@ -402,12 +402,12 @@
                 "en": "DenDen"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 資金",
+                "en": "Business Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "企業員工電動車充電的軟硬體整合方案",
+                "en": "Drive Toward a Sustainable Future"
             },
             "country": {
                 "tw": "台灣",
@@ -416,7 +416,7 @@
             "category": "3",
             "categoryName": "Energy & Healthcare",
             "img": "19.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://den-den.app/"
         },
         {
             "name": {
@@ -424,21 +424,21 @@
                 "en": "Elephantech"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "市場 / 銷售管道",
+                "en": "Markets/ Sales Channels"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "支持印刷電路板業的環保永續發展",
+                "en": "Make PCB Industry Sustainable"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "日本",
+                "en": "Japan"
             },
             "category": "3",
             "categoryName": "Energy & Healthcare",
             "img": "20.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://www.elephantech.co.jp/en/"
         },
         {
             "name": {
@@ -446,21 +446,21 @@
                 "en": "MindAffect"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "製造夥伴 / 商業夥伴 / 資金 / 學術及臨床合作夥伴",
+                "en": "Manufacturing Partners / Business Partners / Funding /  Academic and Clinical Partners"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "進軍未來的聽力與視力診斷工具",
+                "en": "The Hearing and Vision Diagnostics of the Future"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "荷蘭",
+                "en": "Netherlands"
             },
             "category": "3",
             "categoryName": "Energy & Healthcare",
             "img": "21.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://www.mindaffect.nl/"
         },
         {
             "name": {
@@ -468,21 +468,21 @@
                 "en": "Natrion"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 製造夥伴 / 資金",
+                "en": "Business Partners / Manufacturing Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "現時生產造福未來的固態電池",
+                "en": "Batteries for a Better Future, Today."
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "美國",
+                "en": "USA"
             },
             "category": "3",
             "categoryName": "Energy & Healthcare",
             "img": "22.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://www.natrion.co/"
         },
         {
             "name": {
@@ -490,12 +490,12 @@
                 "en": "Taiwan Carbon Shuttle Technology"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "資金",
+                "en": "Funding"
             },
             "desc": {
-                "tw": "Taiwan Carbon Shuttle Technology",
-                "en": "Taiwan Carbon Shuttle Technology"
+                "tw": "改變世界，由碳梭開始",
+                "en": "Changing the World Starts with Carbon Shuttle"
             },
             "country": {
                 "tw": "台灣",
@@ -504,7 +504,7 @@
             "category": "3",
             "categoryName": "Energy & Healthcare",
             "img": "23.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://twcst.com.tw/"
         },
         {
             "name": {
@@ -512,21 +512,21 @@
                 "en": "Vivan Therapeutics"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴/ 資金",
+                "en": "Business Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "智慧設計的個人化治療法",
+                "en": "Personalised Therapeutics, Intelligently Designed"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "英國",
+                "en": "United Kingdom"
             },
             "category": "3",
             "categoryName": "Energy & Healthcare",
             "img": "24.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://vivantx.com/"
         },
         {
             "name": {
@@ -534,21 +534,21 @@
                 "en": "ArgosVision"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 製造夥伴 / 資金",
+                "en": "Business Partners / Manufacturing Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "全景式 3D 視覺 AI",
+                "en": "Panoramic 3D Vision AI"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "韓國",
+                "en": "South Korea "
             },
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "25.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://www.argosvision.com/"
         },
         {
             "name": {
@@ -556,21 +556,21 @@
                 "en": "Calumino"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 製造夥伴 / 資金",
+                "en": "Business Partners / Manufacturing Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "適合大眾市場應用的智慧型熱感應技術",
+                "en": "Smart Thermal Sensing for Mass-market Applications"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "澳洲",
+                "en": "Australia"
             },
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "26.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://calumino.com/"
         },
         {
             "name": {
@@ -578,21 +578,21 @@
                 "en": "Carbon Mobile"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 製造夥伴 / 資金",
+                "en": "Business Partners / Manufacturing Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "連線裝置的永續智慧型材料",
+                "en": "Sustainable Smart Materials for Connected Devices"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "德國",
+                "en": "Germany"
             },
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "27.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://www.carbonmobile.com/"
         },
         {
             "name": {
@@ -600,12 +600,12 @@
                 "en": "GoEdge.ai"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 資金",
+                "en": "Business Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "智慧製造知識管理專家",
+                "en": "Empowering Factory Deep Insight and Intelligence"
             },
             "country": {
                 "tw": "台灣",
@@ -614,7 +614,7 @@
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "28.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://www.goedge.ai/"
         },
         {
             "name": {
@@ -622,21 +622,21 @@
                 "en": "InstAI"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 資金 ",
+                "en": "Business Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "邊緣 AI 視覺裝置的賦能者",
+                "en": "Empower Your Edge Device with AI Vision"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "台灣 / 美國",
+                "en": "Taiwan / USA"
             },
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "29.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://www.instai.co/"
         },
         {
             "name": {
@@ -644,21 +644,21 @@
                 "en": "MatchX"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 製造夥伴 / 資金 ",
+                "en": "Business Partners / Manufacturing Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "全球最大的去中心化物聯網絡",
+                "en": "The World's Largest Decentralized IoT Network"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "德國",
+                "en": "Germany"
             },
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "30.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://matchx.io/"
         },
         {
             "name": {
@@ -666,12 +666,12 @@
                 "en": "Orion go"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 資金",
+                "en": "Business Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "接受挑戰 享受成就",
+                "en": "Accept the Challenge and Enjoy the Achievement."
             },
             "country": {
                 "tw": "台灣",
@@ -680,7 +680,7 @@
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "31.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://oriongo.me/"
         },
         {
             "name": {
@@ -688,43 +688,21 @@
                 "en": "QustomDot"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 製造夥伴 / 資金",
+                "en": "Business Partners / Manufacturing Partners / Funding"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "即開即用的量子點墨水解決方案",
+                "en": "Ready-to-use Quantum Dot Ink Solution"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "比利時",
+                "en": "Belgium"
             },
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "32.png",
-            "link": "UUUUUUUUUUUUU"
-        },
-        {
-            "name": {
-                "tw": "Saccade Vision",
-                "en": "Saccade Vision"
-            },
-            "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
-            },
-            "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
-            },
-            "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
-            },
-            "category": "4",
-            "categoryName": "IoT & Manufacturing",
-            "img": "33.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://www.qustomdot.com/"
         },
         {
             "name": {
@@ -732,21 +710,21 @@
                 "en": "Soundskrit"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "市場 / 銷售管道",
+                "en": "Markets / Sales Channels"
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "錄音室等級的指向性麥克風",
+                "en": "Hear the Impossible"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "加拿大",
+                "en": "Canada"
             },
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "34.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://soundskrit.ca/"
         },
         {
             "name": {
@@ -754,21 +732,21 @@
                 "en": "Zinite"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 產品曝光 / 研發夥伴",
+                "en": "Business Partners / Product Exposure / R&D Partnership "
             },
             "desc": {
-                "tw": "TTTTTTTTTTTTTTTTTTTTT",
-                "en": "EEEEEEEEEEEEEEEEEEEEE"
+                "tw": "可堆疊式 3D 晶片、薄膜電晶體",
+                "en": "True 3D Chips, TFT, Stackable"
             },
             "country": {
-                "tw": "台灣",
-                "en": "Taiwan"
+                "tw": "加拿大",
+                "en": "Canada"
             },
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "35.png",
-            "link": "UUUUUUUUUUUUU"
+            "link": "https://zinite.com/"
         }
     ]
 }
