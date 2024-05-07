@@ -50,8 +50,8 @@
                 "en": "Deeli AI"
             },
             "need": {
-                "tw": "製造夥伴 / 資金 / 客戶",
-                "en": "Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 資金 ",
+                "en": "Business Partners / Funding"
             },
             "desc": {
                 "tw": "AI 驅動的技術知識 SaaS",
@@ -64,7 +64,7 @@
             "category": "1",
             "categoryName": " AI & Data",
             "img": "03.png",
-            "link": "https://garageplus.asia/company/deelicoltd"
+            "link": "https://garageplus.asia/en/company/deeliai"
         },
         {
             "name": {
@@ -94,8 +94,8 @@
                 "en": "Jiva.ai "
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 資金 / 經銷商",
+                "en": "Business Partners / Funding / Distributors"
             },
             "desc": {
                 "tw": "快製 AI 醫療診斷原型的多模態 AI",
@@ -108,7 +108,7 @@
             "category": "1",
             "categoryName": " AI & Data",
             "img": "05.png",
-            "link": "https://garageplus.asia/company/jivaailimited"
+            "link": "https://garageplus.asia/en/company/jivaai"
         },
         {
             "name": {
@@ -116,8 +116,8 @@
                 "en": "Marionette"
             },
             "need": {
-                "tw": "商業夥伴 / 製造夥伴 / 資金 / 客戶",
-                "en": "Business Partners / Manufacturing Partners / Funding / Clients"
+                "tw": "商業夥伴 / 資金",
+                "en": "Business Partners / Funding"
             },
             "desc": {
                 "tw": "無限捕捉、加速 3D 動畫工作流程",
@@ -130,7 +130,7 @@
             "category": "1",
             "categoryName": " AI & Data",
             "img": "06.png",
-            "link": "https://garageplus.asia/company/marionette"
+            "link": "https://garageplus.asia/en/company/marionette"
         },
         {
             "name": {
@@ -152,7 +152,7 @@
             "category": "2",
             "categoryName": "Digital Solution",
             "img": "07.png",
-            "link": "https://garageplus.asia/company/shih-chienaemasscoltd"
+            "link": "https://garageplus.asia/en/company/aemass"
         },
         {
             "name": {
@@ -174,7 +174,7 @@
             "category": "2",
             "categoryName": "Digital Solution",
             "img": "08.png",
-            "link": "https://garageplus.asia/company/bellwetheradvancedmobilitysolutions"
+            "link": "https://garageplus.asia/en/company/bellwetheradvancedmobilitysolutions(bams)"
         },
         {
             "name": {
@@ -196,7 +196,7 @@
             "category": "2",
             "categoryName": "Digital Solution",
             "img": "09.png",
-            "link": "https://garageplus.asia/company/tripsaasdataservicecoltd"
+            "link": "https://garageplus.asia/en/company/commeet"
         },
         {
             "name": {
@@ -218,7 +218,7 @@
             "category": "2",
             "categoryName": "Digital Solution",
             "img": "10.png",
-            "link": "https://garageplus.asia/company/bilinkcorp"
+            "link": "https://garageplus.asia/en/company/emilyrpa"
         },
         {
             "name": {
@@ -240,7 +240,7 @@
             "category": "2",
             "categoryName": "Digital Solution",
             "img": "11.png",
-            "link": "https://garageplus.asia/company/exein"
+            "link": "https://garageplus.asia/en/company/%E6%84%9B%E5%85%8B%E6%A3%AE"
         },
         {
             "name": {
@@ -262,7 +262,7 @@
             "category": "2",
             "categoryName": "Digital Solution",
             "img": "12.png",
-            "link": "https://garageplus.asia/company/fstnetwork(fst)"
+            "link": "https://garageplus.asia/en/company/fstnetwork"
         },
         {
             "name": {
@@ -284,7 +284,7 @@
             "category": "2",
             "categoryName": "Digital Solution",
             "img": "13.png",
-            "link": "https://garageplus.asia/company/ganzintechnology"
+            "link": "https://garageplus.asia/en/company/ganzin"
         },
         {
             "name": {
@@ -306,7 +306,7 @@
             "category": "2",
             "categoryName": "Digital Solution",
             "img": "14.png",
-            "link": "https://garageplus.asia/company/greenedgecomputingcorp(gecco)"
+            "link": "https://garageplus.asia/company/greenedgecomputingcorp"
         },
         {
             "name": {
@@ -340,8 +340,8 @@
                 "en": "Business Partners / Funding"
             },
             "desc": {
-                "tw": "Make Trust Accessible",
-                "en": "數位憑證的解決方案"
+                "tw": "數位憑證的解決方案",
+                "en": "Make Trust Accessible"
             },
             "country": {
                 "tw": "台灣 / 美國",
@@ -350,7 +350,7 @@
             "category": "2",
             "categoryName": "Digital Solution",
             "img": "16.png",
-            "link": "https://garageplus.asia/company/turingspaceinc"
+            "link": "https://garageplus.asia/en/company/turingspace"
         },
         {
             "name": {
@@ -372,7 +372,7 @@
             "category": "2",
             "categoryName": "Digital Solution",
             "img": "17.png",
-            "link": "https://garageplus.asia/company/wamazinginc"
+            "link": "https://garageplus.asia/en/company/%E5%AE%8C%E7%BE%8E%E8%A1%8C"
         },
         {
             "name": {
@@ -416,7 +416,7 @@
             "category": "3",
             "categoryName": "Energy & Healthcare",
             "img": "19.png",
-            "link": "https://garageplus.asia/company/dendeninc"
+            "link": "https://garageplus.asia/company/denden"
         },
         {
             "name": {
@@ -482,7 +482,7 @@
             "category": "3",
             "categoryName": "Energy & Healthcare",
             "img": "22.png",
-            "link": "https://garageplus.asia/company/natrioninc"
+            "link": "https://garageplus.asia/en/company/natrion"
         },
         {
             "name": {
@@ -504,7 +504,7 @@
             "category": "3",
             "categoryName": "Energy & Healthcare",
             "img": "23.png",
-            "link": "https://garageplus.asia/company/taiwancarbonshuttletechnologycoltd"
+            "link": "https://garageplus.asia/en/company/taiwancarbonshuttletechnology"
         },
         {
             "name": {
@@ -548,7 +548,7 @@
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "25.png",
-            "link": "https://garageplus.asia/company/argosvisioninc"
+            "link": "https://garageplus.asia/en/company/argosvision"
         },
         {
             "name": {
@@ -570,7 +570,7 @@
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "26.png",
-            "link": "https://garageplus.asia/en/company/caluminoptyltd"
+            "link": "https://garageplus.asia/en/company/calumino"
         },
         {
             "name": {
@@ -614,7 +614,7 @@
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "28.png",
-            "link": "https://garageplus.asia/company/goedgeaiinc(goedge)"
+            "link": "https://garageplus.asia/en/company/goedgeai"
         },
         {
             "name": {
@@ -636,7 +636,7 @@
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "29.png",
-            "link": "https://garageplus.asia/company/instaiinc"
+            "link": "https://garageplus.asia/en/company/instai"
         },
         {
             "name": {
@@ -658,12 +658,12 @@
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "30.png",
-            "link": "https://garageplus.asia/company/matchxgmbh"
+            "link": "https://garageplus.asia/en/company/matchx"
         },
         {
             "name": {
                 "tw": "獵戶科技",
-                "en": "Orion go"
+                "en": "Oriongo"
             },
             "need": {
                 "tw": "商業夥伴 / 資金",
@@ -680,7 +680,7 @@
             "category": "4",
             "categoryName": "IoT & Manufacturing",
             "img": "31.png",
-            "link": "https://garageplus.asia/company/oriongocoltd"
+            "link": "https://garageplus.asia/en/company/oriongo"
         },
         {
             "name": {
